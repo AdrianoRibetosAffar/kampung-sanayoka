@@ -2,4 +2,4 @@
 Profile Website Kampung Sanoyaka, Kabupaten Yapen, Papua
 
 # Demo Website
-https://adrianoribetosaffar.github.io/kampung-sanayoka/
+https://adrianoaffar.github.io/kampung-sanayoka/
